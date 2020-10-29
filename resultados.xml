@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resultados>
+<partido>
+	<equipo>Sevilla</equipo>
+	<goles> 3</goles>
+	<equipo> Madrid</equipo>
+	<goles> 2 </goles>
+</partido>
+<partido>
+	<equipo>Barcelona</equipo>
+	<goles> 1</goles>
+	<equipo> Betis</equipo>
+	<goles> 2 </goles>
+</partido>
+<partido>
+	<equipo>Osasuna</equipo>
+	<goles> 0 </goles>
+	<equipo> Valencia</equipo>
+	<goles> 0 </goles>
+</partido>
+<partido>
+	<equipo>Malaga</equipo>
+	<goles> 3</goles>
+	<equipo> Sporting</equipo>
+	<goles> 2 </goles>
+</partido>
+<partido>
+	<equipo>Leganés</equipo>
+	<goles> 1</goles>
+	<equipo> Alavés</equipo>
+	<goles> 1</goles>
+</partido>
+<partido>
+	<equipo>Granada</equipo>
+	<goles> 1</goles>
+	<equipo>Deportivo</equipo>
+	<goles> 1 </goles>
+</partido>
+<partido>
+	<equipo>R.Sociedad</equipo>
+	<goles> 0</goles>
+	<equipo> Atletico</equipo>
+	<goles> 2 </goles>
+</partido>
+
+</resultados>
+
